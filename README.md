@@ -5,6 +5,7 @@ Kafka-Client is a lightweight command-line tool designed to interact with Apache
 ## Features
 
 **Create Topics**: Create new topics in your Kafka cluster.
+
 **Publish Messages**: Send messages to a specified Kafka topic.
 
 ## Installation
